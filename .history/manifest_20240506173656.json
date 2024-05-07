@@ -1,0 +1,21 @@
+{
+    "manifest_version": 3,
+    "name": "Roy's Extention",
+    "version": "1.0.0",
+    "description": "An example to learn about extentions",
+    "author": "roy@goldhar.net",
+    "icons": {
+      "16": "images/icon.png",  
+      "48": "images/icon.png",
+      "128": "images/icon.png"
+    },
+    "action":{
+        "default_popup":"popup.html",
+        "default_icon":{
+            "16": "images/icon.png",  
+            "48": "images/icon.png",
+            "128": "images/icon.png" 
+        },
+        "default_title": "Dive in"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "manifest_version": 3,
+    "name": "Vpn Http Proxy",
+    "version": "1.0.0",
+    "description": "HTTP and HTTPS traffic to a proxy",
+    "author": "mail@motallebi.aliakbar.dev",
+    "icons": {
+        "16": "images/icon.png",
+        "48": "images/icon.png",
+        "128": "images/icon.png"
+    },
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": {
+            "16": "images/icon.png",
+            "48": "images/icon.png",
+            "128": "images/icon.png"
+        },
+        "default_title": "Dive in"
+    }
+}
